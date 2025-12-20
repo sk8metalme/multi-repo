@@ -5,7 +5,18 @@
       "jiraKey": "PC",
       "confluenceSpace": "MICHI",
       "createdAt": "2025-12-19T15:23:49.760Z",
-      "repositories": []
+      "repositories": [
+        {
+          "name": "java-study",
+          "url": "https://github.com/sk8metalme/java-study",
+          "branch": "main"
+        },
+        {
+          "name": "nodejs-study",
+          "url": "https://github.com/sk8metalme/nodejs-study",
+          "branch": "main"
+        }
+      ]
     }
   ]
 }
