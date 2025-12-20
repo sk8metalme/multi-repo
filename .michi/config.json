@@ -1,0 +1,11 @@
+{
+  "multiRepoProjects": [
+    {
+      "name": "my-microservices",
+      "jiraKey": "PC",
+      "confluenceSpace": "MICHI",
+      "createdAt": "2025-12-19T15:23:49.760Z",
+      "repositories": []
+    }
+  ]
+}
